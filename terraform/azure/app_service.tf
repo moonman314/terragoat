@@ -48,7 +48,7 @@ resource azurerm_app_service "app-service2" {
   https_only          = true
 
   auth_settings {
-    enabled = false
+    enabled = true
   }
   tags = {
     git_commit           = "81738b80d571fa3034633690d13ffb460e1e7dea"
