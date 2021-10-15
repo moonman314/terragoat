@@ -274,6 +274,9 @@ resource "aws_s3_bucket" "flowbucket" {
     git_repo             = "terragoat"
     yor_trace            = "b2b673c8-31f9-46cf-a8f5-2be454893f3b"
   }
+  versioning {
+    enabled = true
+  }
 }
 
 output "ec2_public_dns" {
