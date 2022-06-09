@@ -28,7 +28,7 @@ resource azurerm_kubernetes_cluster "k8s_cluster" {
     git_last_modified_at = "2020-06-17 12:59:55"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "f25ff168-9614-4205-96d4-f212a22cabbb"
   }

@@ -27,7 +27,7 @@ resource google_compute_instance "server" {
     git_last_modified_at = "2020-07-09 13:43:30"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "f3b60229-9824-4961-bc87-3365958badb4"
   }
@@ -41,7 +41,7 @@ resource google_compute_disk "unencrypted_disk" {
     git_last_modified_at = "2020-07-09 13:34:36"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "db914048-2ec8-4c0f-b081-1a71588b80eb"
   }
