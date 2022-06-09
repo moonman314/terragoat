@@ -20,7 +20,7 @@ resource "aws_elasticsearch_domain" "monitoring-framework" {
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "118fd7f8-b3d7-43d9-b418-7dd16a646a4c"
   }

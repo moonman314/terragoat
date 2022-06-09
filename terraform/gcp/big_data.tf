@@ -30,7 +30,7 @@ resource google_bigquery_dataset "dataset" {
     git_last_modified_at = "2020-07-09 13:34:36"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "2e0da432-edec-4ccf-9017-a1dd63a1f8db"
   }

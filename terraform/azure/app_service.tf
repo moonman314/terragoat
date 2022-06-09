@@ -13,7 +13,7 @@ resource azurerm_app_service_plan "example" {
     git_last_modified_at = "2020-06-17 12:59:55"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "f5871797-060b-42c1-a95e-f9090b56ed77"
   }
@@ -34,7 +34,7 @@ resource azurerm_app_service "app-service1" {
     git_last_modified_at = "2020-06-19 21:14:50"
     git_last_modified_by = "Adin.Ermie@outlook.com"
     git_modifiers        = "Adin.Ermie/nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "20163505-c921-43bf-a6ce-4dbcf50a4406"
   }
@@ -56,7 +56,7 @@ resource azurerm_app_service "app-service2" {
     git_last_modified_at = "2020-06-19 21:14:50"
     git_last_modified_by = "Adin.Ermie@outlook.com"
     git_modifiers        = "Adin.Ermie/nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "1c004765-6fe5-4bcb-9035-553f46ad4bb4"
   }

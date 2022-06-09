@@ -23,7 +23,7 @@ resource "azurerm_key_vault" "example" {
     git_last_modified_at = "2020-06-19 21:14:50"
     git_last_modified_by = "Adin.Ermie@outlook.com"
     git_modifiers        = "Adin.Ermie/nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "8755a006-6548-499b-839c-15e218556f94"
   }
@@ -48,7 +48,7 @@ resource "azurerm_key_vault_key" "generated" {
     git_last_modified_at = "2020-06-17 12:59:55"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "f6bae3fd-c0c8-4b88-8395-28f9a3d6ec79"
   }
@@ -64,7 +64,7 @@ resource "azurerm_key_vault_secret" "secret" {
     git_last_modified_at = "2020-06-19 21:16:08"
     git_last_modified_by = "Adin.Ermie@outlook.com"
     git_modifiers        = "Adin.Ermie/nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "3ec84e55-c2f6-41c5-a136-44a1e61107c7"
   }

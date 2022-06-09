@@ -9,7 +9,7 @@ resource "aws_kms_key" "logs_key" {
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "651492b6-4d42-4633-a9ce-3b9be25b9152"
   }
@@ -33,7 +33,7 @@ resource "aws_kms_key" "customer_key" {
     git_last_modified_at = "2020-12-08 22:29:14"
     git_last_modified_by = "schosterbarak@gmail.com"
     git_modifiers        = "mike/schosterbarak"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "5fbd52d8-2726-4d86-afaf-836296566d69"
   }

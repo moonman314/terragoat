@@ -9,7 +9,7 @@ resource aws_ecr_repository "repository" {
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
-    git_org              = "try-bridgecrew"
+    git_org              = "moonman314"
     git_repo             = "terragoat"
     yor_trace            = "62b4c542-6734-4fa4-83b1-bc7f0cc26332"
   }
